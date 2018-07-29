@@ -1,1 +1,1 @@
-# cardcraft
+# Sharded Cards Wiki
